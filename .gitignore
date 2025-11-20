@@ -19,7 +19,8 @@ logs/
 *.iws
 *.iml
 *.ipr
-.env
+*.env
+*.log
 
 ### NetBeans ###
 /nbproject/private/
